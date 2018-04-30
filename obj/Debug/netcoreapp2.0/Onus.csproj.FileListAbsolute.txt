@@ -1,0 +1,10 @@
+/Users/kelsey/Desktop/Redwood_Codes/Onus/bin/Debug/netcoreapp2.0/Onus.deps.json
+/Users/kelsey/Desktop/Redwood_Codes/Onus/bin/Debug/netcoreapp2.0/Onus.runtimeconfig.json
+/Users/kelsey/Desktop/Redwood_Codes/Onus/bin/Debug/netcoreapp2.0/Onus.runtimeconfig.dev.json
+/Users/kelsey/Desktop/Redwood_Codes/Onus/bin/Debug/netcoreapp2.0/Onus.dll
+/Users/kelsey/Desktop/Redwood_Codes/Onus/bin/Debug/netcoreapp2.0/Onus.pdb
+/Users/kelsey/Desktop/Redwood_Codes/Onus/obj/Debug/netcoreapp2.0/Onus.csproj.CoreCompileInputs.cache
+/Users/kelsey/Desktop/Redwood_Codes/Onus/obj/Debug/netcoreapp2.0/Onus.AssemblyInfoInputs.cache
+/Users/kelsey/Desktop/Redwood_Codes/Onus/obj/Debug/netcoreapp2.0/Onus.AssemblyInfo.cs
+/Users/kelsey/Desktop/Redwood_Codes/Onus/obj/Debug/netcoreapp2.0/Onus.dll
+/Users/kelsey/Desktop/Redwood_Codes/Onus/obj/Debug/netcoreapp2.0/Onus.pdb
